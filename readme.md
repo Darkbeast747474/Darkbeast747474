@@ -30,7 +30,7 @@ I'm An Undergraduate student Currently At My Learning Stage And a Data Scientist
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socialslinkedinsvgwidth="32height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socialslinkedinsvg" width="32" height="32" />
 </picture>
 <a href="https://github.com/Darkbeast747474">
 <table>
