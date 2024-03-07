@@ -1,4 +1,4 @@
-![Header](/Darkbeast747474/assets/wt9hrv5r.png?raw=true "Header")
+![Header](assests/wt9hrv5r.png "Header")
 
 Deepak Kaushal
 ===============================
