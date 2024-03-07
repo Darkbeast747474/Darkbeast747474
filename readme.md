@@ -1,4 +1,4 @@
-[![Header](https://www.github.com/Darkbeast747474\Darkbeast747474\wt9hrv5r.png "Header")](https://github.com/Darkbeast747474)
+[![Header]([https://www.github.com/Darkbeast747474\Darkbeast747474\wt9hrv5r.png](https://github.com/Darkbeast747474/Darkbeast747474/blob/main/wt9hrv5r.png) "Header")](https://github.com/Darkbeast747474)
 
 Deepak Kaushal
 ===============================
