@@ -7,7 +7,7 @@ I'm An Undergraduate Student Currently On Data Science Path
 
 *   🌍  I'm based in Hoshiarpur, Punjab India
 *   ✉️  You can contact me at [Email](mailto:deepakkaushal7774@gmail.com )
-*   🧠  I'm learning Machine Leaning / Artifical Intelligence
+*   🧠  I'm learning Machine Learning / Artifical Intelligence
 *   🤝  I'm open to collaborating on Interested Projects
 *   ⚡  I'm a Playboy.....Don't Tell Anyone🤫  
 
