@@ -54,9 +54,6 @@ Deepak Kaushal
 
 <table>
 <tr>
-  <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkbeast747474&hide_border=true&langs_count=12&layout=compact&theme=transparent" />
-  </td>
     <td>
      <a href="https://github.com/Darkbeast747474">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkbeast747474&theme=transparent" />
