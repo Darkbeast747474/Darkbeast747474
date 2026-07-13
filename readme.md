@@ -28,38 +28,38 @@
 **Programming & Query Languages**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
 **BI & Data Visualization**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/PowerBI.png" height="40" alt="power bi logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </div>
 
 **Data Analysis & Machine Learning**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="40" alt="xgboost logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </div>
 
 **Cloud, Tools & Platforms**
 
 <div align="left">
-  <img src="https://www.gstatic.com/bigquery/marketing/images/bigqueryhero.svg" height="40" alt="bigquery logo" />
-  <img src="https://raw.githubusercontent.com/streamlit/docs/main/public/logomark_color.svg" height="40" alt="streamlit logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br>
@@ -131,20 +131,34 @@ Building an end-to-end MLOps pipeline predicting churn and prescribing retention
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darkbeast747474&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+</div>
+
+<br>
+
 <table>
 <tr>
-    <td>
-      <a href="https://github.com/Darkbeast747474">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darkbeast747474&theme=transparent" />
-      </a>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Darkbeast747474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <a href="https://github.com/Darkbeast747474">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darkbeast747474&hide_border=true&card_width=338&theme=transparent" />
-      </a>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkbeast747474&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
 </tr>
 </table>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkbeast747474&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darkbeast747474&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Darkbeast747474&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Darkbeast747474">
