@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Darkbeast747474">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0E7C7B&height=220&section=header&text=Deepak%20Kaushal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20%26%20Analytics%20%7C%20Turning%20Data%20Into%20Decisions&descAlignY=55&descSize=18" alt="header banner" width="100%" />
-</a>
+[![Header](assests/wt9hrv5r.png "Header")](https://github.com/Darkbeast747474)
 
 <br>
 
