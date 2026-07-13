@@ -1,7 +1,6 @@
 <div align="center">
 
 [![Header](assests/wt9hrv5r.png "Header")](https://github.com/Darkbeast747474)
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+BI+%26+Analytics;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Building+Predictive+Models+with+XGBoost;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
@@ -119,8 +118,8 @@ Building an end-to-end MLOps pipeline predicting churn and prescribing retention
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Darkbeast747474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkbeast747474&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darkbeast747474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darkbeast747474&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
