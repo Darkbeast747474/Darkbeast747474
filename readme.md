@@ -126,12 +126,7 @@ Building an end-to-end MLOps pipeline predicting churn and prescribing retention
   <img width="70%" src="https://streak-stats.demolab.com/?user=Darkbeast747474&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Darkbeast747474&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-</div>
-
 <br>
-
 <div align="center">
 
   <table>
